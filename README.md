@@ -4,14 +4,14 @@
 <br />
 <div align="center">
   <a href="https://github.com/zwcoop/Roomba">
-    <img src="images/roomba.png" alt="Logo" width="150" height="150">
+    <img src="images/roomba-icon.png" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center">Roomba Bots</h3>
 
   <p align="center">
-        "If he had anything confidential to say, he wrote it in cipher, that is, by so changing the order of the letters of the alphabet, that not a word could be made out. If anyone wishes to decipher these, and get at their meaning, he must substitute the fourth letter of the alphabet, namely D, for A, and so with the others."
-    — Suetonius, Life of Julius Caesar 56
+      This project involves coding a simulation of Roomba vacuuming robots under two different
+      'cleaning strategies'. 
     <br />
   </p>
 </div>
