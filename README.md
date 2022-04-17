@@ -105,7 +105,7 @@ This project was done as a part of the MITx 6000.2 course I took through the edX
 
 [MIT 6000.1x](https://youtube.com/playlist?list=PLRJdqdXieSHN0U9AdnmwD-9QcR9hmw04d)
 
-[MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+[MIT OPENCOURSEWARE](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
