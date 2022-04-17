@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/zwcoop/Roomba">
-    <img src="images/roomba-icon.png" alt="Logo" width="150" height="150">
+    <img src="images/roomba-icon.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">Roomba Bots</h3>
@@ -38,12 +38,17 @@
 ## About The Project
 
 <div align="center">
-<img src="images/roomba.png" alt="Demo">
+<img src="images/simulation-diagram.png" alt="Demo">
 </div>
 <br />
-<p> This program imports an encryted message and prints out the decrypted message and the number the alphabet was shifted by.</p>
+<p>This project involves coding a simulation of Roomba vacuuming robots under two different
+ 'cleaning strategies'. The diagram above describes a simplified simulation of one robot in a 5x5 grid using the 'Standard' cleaning strategy. In this strategy, a robot is assigned a random initial position and direction. The robot maintains it's direction and proceeds to clean subsequent tiles until it encounters a wall. At that point, the direction is randomly changed and the steps are repeated until a specified percentage of the tiles have been cleaned. The second startegy is similar to the first except that a random direction is choosen after each time step as opposed to when a wall is encountered.</p>
+<p>The simulations were run with different numbers of robots and with different 'room layouts' to compare the amount of time required to clean a certain percentage of the room. Below are a couple of graphs of the results. </p>
 <br />
-<p> Give it a try!</p>
+<img src="images/Figure_1.png" alt="Demo">
+<img src="images/Figure_2.png" alt="Demo">
+<br/>
+<p> Give it a try for yourself!</p>
 
 ### Built With
 
@@ -53,8 +58,10 @@
 
 <ol>
   <li> Object Oriented Programming </li>
-  <li> Defining classes </li>
-  <li> Stochastic Simulations  </li>
+  <li> Defining classes and working with class methods </li>
+  <li> Stochastic simulations  </li>
+  <li> Inheritance </li>
+  <li> Using Pylab library </li>
 </ol>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
